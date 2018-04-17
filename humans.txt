@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    md81544
 
 # THANKS
 
-    <name>
+    everyone
 
 # TECHNOLOGY COLOPHON
 
